@@ -35,5 +35,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=valentinohrynt&style=flat-square&color=blue" alt=""/>
 </div>
