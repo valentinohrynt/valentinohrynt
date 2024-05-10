@@ -17,11 +17,11 @@
   </h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY2dXZhYzBlOG5uM3kwcnlhMnVuanhvMHVwNjE5dHR0anlvYzZwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
----
+<hr>
 <div align="center">
   ### :man_technologist: About Me :
 </div>
----
+<hr>
 <div align="center">
   ### :hammer_and_wrench: Languages and Tools :
   <div>
