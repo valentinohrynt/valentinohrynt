@@ -25,7 +25,7 @@
   </div>
 </div>
 <hr>
-<div align = "center">
+<div align = "center" display="flex" flex="column">
   :fire: GitHub Stats :
   <img src="http://github-readme-streak-stats.herokuapp.com?user=valentinohrynt&theme=dark&background=000000">
 </div>
