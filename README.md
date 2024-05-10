@@ -23,7 +23,7 @@
 </div>
 <hr>
 <div align="center">
-  <font style="font-weight: 700;">:hammer_and_wrench: Languages and Tools :</font>
+  <font style="font-weight: 700; margin-bottom: 10px;">:hammer_and_wrench: Languages and Tools :</font>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
