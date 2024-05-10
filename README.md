@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div align="center">
-  ### :man_technologist: About Me :
+  :man_technologist: About Me :
 </div>
 <hr>
 <div align="center">
@@ -23,6 +23,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
+</div>
+<hr>
+<div align = "center">
+  :fire: GitHub Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valentinohrynt&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 <hr>
 <div id="badges" align="center">
