@@ -8,6 +8,7 @@
 <hr>
 <div align="center">
   :man_technologist: About Me :
+  I'm a student of Jember University
 </div>
 <hr>
 <div align="center">
