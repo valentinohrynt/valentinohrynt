@@ -3,7 +3,7 @@
     Hey there! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://media.giphy.com/media/uTAFTGP3B4QvUoOikX/giphy.gif?cid=790b7611ufphm3vo49ui7g22bz45x1hhioqp6r02mih3m3bm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://tenor.com/ttVqix5HK93.gif" width="600" height="300"/>
 </div>
 <hr>
 <div align="center">
