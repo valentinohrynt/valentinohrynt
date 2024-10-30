@@ -8,7 +8,7 @@
 <hr>
 <div align="center">
   :man_technologist: About Me :
-  I'm a student of Jember University
+  If another person can code, why am I?
 </div>
 <hr>
 <div align="center">
