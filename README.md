@@ -12,10 +12,10 @@
 </div>
 <hr>
 <div align="center">
-  <br>
   <div align="center">
     :iphone: Mobile Development Stack
   </div>
+  <br />
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" **alt="Android" width="40" height="40"/>
