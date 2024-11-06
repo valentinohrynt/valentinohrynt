@@ -12,7 +12,6 @@
 </div>
 <hr>
 <div align="center">
-  :hammer_and_wrench: Languages and Tools :
   <br>
   <div align="center">
     :iphone: Mobile Development Stack
