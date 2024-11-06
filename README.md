@@ -1,9 +1,3 @@
-<style>
-  body{
-    font-family: "Poppins"
-  }
-</style>
-
 <div align="center">
   <h1>
     Hey there! 
