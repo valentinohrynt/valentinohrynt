@@ -38,7 +38,7 @@
   </div>
   <br>
       <div align="center">
-        :globe_with_meridians: Machine Learning Stack
+        :robot: Machine Learning Stack
       </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
