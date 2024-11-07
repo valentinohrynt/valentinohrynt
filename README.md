@@ -62,13 +62,13 @@
 <hr>
 <div align = "center">
   :fire: GitHub Stats :
-  <br>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 300px;">
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinohrynt&theme=tokyonight&hide_border=true" style="width: 100%; max-width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 150px;">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 300px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinohrynt&theme=tokyonight&hide_border=true" style="width: 100%; max-width: 150px;">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 150px;">
       <br>
   </div>
 </div>
