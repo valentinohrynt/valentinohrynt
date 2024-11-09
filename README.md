@@ -14,6 +14,7 @@
 </div>
 <hr>
 <div align="center">
+  <h3>Tech stacks</h3>
   <div align="center">
     :iphone: Mobile Development Stack
   </div>
