@@ -7,6 +7,7 @@
 </div>
 <hr>
 <div align="center">
+  <h3>Listening to...</h3>
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4qsi5fd3hbinp7saaanaiiwrr&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4qsi5fd3hbinp7saaanaiiwrr&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true">
   </a>
