@@ -72,11 +72,11 @@
   <h3>GitHub Stats :fire: </h3>
   <div align="center">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="width: 30%;">
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinohrynt&theme=tokyonight&hide_border=true" style="width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinohrynt&theme=tokyonight&hide_border=true" style="width: 30%;">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 30%;">
       <br>
   </div>
 </div>
