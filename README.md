@@ -64,7 +64,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://xyz.serv00.net/icon/github/github-white.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
+    <img src="https://xyz.serv00.net/icon/github/github-white.png" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
   </div>
 </div>
 <hr>
