@@ -14,7 +14,7 @@
 </div>
 <hr>
 <div align="center">
-  <h3>Tech stacks</h3>
+  <h3>Tech Stacks</h3>
   <div align="center">
     :iphone: Mobile Development Stack
   </div>
@@ -77,6 +77,7 @@
 </div>
 <hr>
 <div id="badges" align="center">
+  <h3>Social Media</h3>
   <a href="https://www.linkedin.com/in/valentinohariyanto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -88,5 +89,5 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=valentinohrynt&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=valentinohrynt&style=flat-square&color=orange" alt=""/>
 </div>
