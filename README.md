@@ -64,7 +64,7 @@
 </div>
 <hr>
 <div align = "center">
-  :fire: <h3>GitHub Stats</h3>
+  <h3>GitHub Stats :fire: </h3>
   <div align="center">
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="width: 50%;">
