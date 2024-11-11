@@ -3,7 +3,7 @@
     Hey there! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://xyz.serv00.net/wp-background/2lssm3nrzzi.gif" width="600" height="300"/>
+  <img src="https://c.tenor.com/lP97WHz7kP4AAAAd/tenor.gif" width="600" height="300"/>
 </div>
 <hr>
 <div align="center">
