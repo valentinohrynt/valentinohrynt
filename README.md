@@ -1,4 +1,5 @@
 <div align="center">
+  <iframe src="https://github.com/sponsors/valentinohrynt/button" title="Sponsor valentinohrynt" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
   <h1>
     Hey there! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
