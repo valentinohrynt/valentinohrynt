@@ -1,9 +1,9 @@
 <div align="center">
   <h1>
     Hey there! 
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdoajYxY2FjdWo1N2c4Y2Y0eXRyanNqN2VkbzY1b21jZXNybzZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXNcbxSAQN2iIbrHB/giphy.webp" width="30px"/>
+    <img src="https://media0.giphy.com/media/Cmr1OMJ2FN0B2/giphy.webp?cid=790b7611s2lksoqeqzbqizfsjl67bz4vnjrm2klf62q4fcnx&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="30px"/>
   </h1>
-  <img src="https://c.tenor.com/lP97WHz7kP4AAAAd/tenor.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdoajYxY2FjdWo1N2c4Y2Y0eXRyanNqN2VkbzY1b21jZXNybzZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXNcbxSAQN2iIbrHB/giphy.webp" width="600" height="300"/>
 </div>
 <hr>
 <div align="center">
