@@ -92,10 +92,7 @@
 <div id="badges" align="center">
   <h3>Social Media :selfie: </h3>
   <a href="https://www.linkedin.com/in/valentinohariyanto/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=internetarchive&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/oolentino">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
