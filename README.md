@@ -80,9 +80,7 @@
   <h3>GitHub Stats :fire: </h3>
   <div align="center">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="width: 40%;">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinohrynt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 40%;">
+        [![Valentino's GitHub stats](https://github-stats-extended.vercel.app/api?username=valentinohrynt)](https://github.com/stats-organization/github-stats-extended)
       <br>
   </div>
 </div>
