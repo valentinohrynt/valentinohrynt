@@ -17,8 +17,8 @@
 <a href="#-tech-stack">
   <img src="https://img.shields.io/badge/Tech%20Stack-2563EB?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" />
 </a>
-<a href="#-github-stats">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-16A34A?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Stats" />
+<a href="#-what-i-build">
+  <img src="https://img.shields.io/badge/What%20I%20Build-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="What I Build" />
 </a>
 <a href="#-connect-with-me">
   <img src="https://img.shields.io/badge/Connect-E11D48?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
@@ -64,7 +64,7 @@ const valentino = {
 };
 ```
 
-- 🔭 Focused on building **web apps, mobile apps, APIs, and SaaS products**
+- 🔭 Building **web apps, mobile apps, APIs, and SaaS products**
 - 📱 Experienced in **Android, Kotlin, Flutter, and mobile app development**
 - 🌐 Working with **React, Next.js, Tailwind CSS, Laravel, Node.js, and Express.js**
 - 🤖 Interested in **machine learning, automation, data analysis, and AI tools**
@@ -203,76 +203,179 @@ const valentino = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=valentinohrynt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+<a href="https://github.com/valentinohrynt?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+
+<a href="https://github.com/valentinohrynt?tab=stars">
+  <img src="https://img.shields.io/badge/Starred%20Projects-FACC15?style=for-the-badge&logo=github&logoColor=black" alt="Starred Projects" />
+</a>
+
+<a href="https://github.com/valentinohrynt?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+| GitHub Area | Link |
+|---|---|
+| 📦 Repositories | [Explore my repositories](https://github.com/valentinohrynt?tab=repositories) |
+| ⭐ Starred Projects | [View projects I starred](https://github.com/valentinohrynt?tab=stars) |
+| 👥 Followers | [View followers](https://github.com/valentinohrynt?tab=followers) |
+| 🧑‍💻 Profile | [Open GitHub profile](https://github.com/valentinohrynt) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=valentinohrynt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Valentino's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinohrynt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=valentinohrynt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valentinohrynt&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valentinohrynt/valentinohrynt/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valentinohrynt/valentinohrynt/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/valentinohrynt/valentinohrynt/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-## 🎯 Current Focus
+## 🧩 Featured Work Areas
 
 <details open>
-<summary><b>Click to expand my current development focus</b></summary>
+<summary><b>🌐 Web Development</b></summary>
 
 <br />
 
-- Building production-ready **SaaS applications**
-- Improving **full-stack architecture**
-- Creating better **developer workflows**
-- Exploring **AI tools for coding and automation**
-- Strengthening **backend reliability and deployment practices**
+I work on landing pages, dashboards, admin panels, business websites, SaaS platforms, and backend-connected web applications.
+
+<br />
+<br />
+
+**Main stack:**
+
+```txt
+React · Next.js · Tailwind CSS · Bootstrap · Laravel · Node.js · Express.js
+```
 
 </details>
+
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+
+<br />
+
+I build Android and cross-platform mobile applications with focus on usability, clean architecture, and stable user experience.
+
+<br />
+<br />
+
+**Main stack:**
+
+```txt
+Kotlin · Android · Flutter · JUnit
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+
+<br />
+
+I work with APIs, authentication flows, database logic, payment integration, and deployment-ready backend systems.
+
+<br />
+<br />
+
+**Main stack:**
+
+```txt
+PHP · Laravel · Node.js · Express.js · Flask · MySQL · Supabase · Sequelize
+```
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning & Automation</b></summary>
+
+<br />
+
+I explore data analysis, machine learning experiments, scraping, automation, and AI-assisted development workflows.
+
+<br />
+<br />
+
+**Main stack:**
+
+```txt
+Python · Pandas · Scikit-learn · Matplotlib · Selenium
+```
+
+</details>
+
+---
+
+## 🚀 Current Engineering Focus
+
+```ts
+const currentFocus = {
+  product: "Building practical SaaS and web applications",
+  architecture: "Improving full-stack project structure",
+  backend: "Designing cleaner APIs and database workflows",
+  deployment: "Improving production deployment reliability",
+  ai: "Using AI tools to improve development speed"
+};
+```
+
+---
+
+## 🏗️ Development Principles
+
+<div align="center">
+
+| Principle | Description |
+|---|---|
+| 🧼 Clean Implementation | Code should be readable, maintainable, and easy to extend |
+| ⚙️ Practical Architecture | Systems should fit the actual project size and business need |
+| 🚀 Production Mindset | Projects should be built with deployment and reliability in mind |
+| 📱 User-Focused UX | Interfaces should be simple, responsive, and usable |
+| 🔁 Continuous Learning | Tools change fast, so the workflow should keep improving |
+
+</div>
+
+---
+
+## 📌 Repository Categories
+
+<div align="center">
+
+| Category | Focus |
+|---|---|
+| 🌐 Frontend | React, Next.js, Tailwind CSS, Bootstrap |
+| ⚙️ Backend | Laravel, Node.js, Express.js, Flask |
+| 📱 Mobile | Kotlin, Android, Flutter |
+| 🗄️ Database | MySQL, Supabase, Sequelize |
+| 🤖 AI / ML | Python, Pandas, Scikit-learn |
+| ☁️ Deployment | Vercel, Cloudflare, Apache, Nginx |
+
+</div>
+
+---
+
+## 🧠 Quick Profile
+
+```json
+{
+  "name": "Valentino Hariyanto",
+  "username": "valentinohrynt",
+  "role": "Full-Stack Developer",
+  "interests": [
+    "Web Development",
+    "Mobile Development",
+    "SaaS Products",
+    "Machine Learning",
+    "Automation"
+  ],
+  "goal": "Build useful software with clean and practical implementation"
+}
+```
 
 ---
 
